@@ -1,113 +1,6 @@
 ---
-- taxonomy: 主站推荐
-  icon: far fa-star
-  links:
-    - title: 十一姐知识星球
-      logo: weixin_43411585.jpg
-      qrcode: images/qrcode/shiyi_zsxq.jpg
-      url: https://t.zsxq.com/14tPsY8si
-      description: 各种JS逆向/验证码逆向识别训练
-    - title: 爬虫工具库
-      logo: spidertools.png
-      url: https://spidertools.cn/
-      description: feapder 作者出品的爬虫工具库
-    - title: AST Explorer
-      logo: astexplorer.png
-      url: https://astexplorer.net/
-      description: 一个使用各种解析器生成代码的 AST 的 Web 工具。
 
 
-- taxonomy: 文档资料
-  icon: fas fa-book
-  links:
-    - title: Python 官方文档
-      logo: python.png
-      url: https://docs.python.org/
-      description: Python 官方文档
-    - title: Golang 官方文档
-      logo: go.png
-      url: https://go.dev/doc/
-      description: Golang 官方文档。
-    - title: Java 官方文档
-      logo: java.png
-      url: https://docs.oracle.com/en/java/
-      description: Java 官方文档。
-    - title: Python 黑魔法手册
-      logo: iswbm.jpg
-      url: https://magic.iswbm.com/
-      description: Python 黑魔法手册。
-    - title: FastApi 官方文档
-      logo: fastapi.png
-      url: https://fastapi.tiangolo.com/
-      description: FastApi 官方文档。
-    - title: PM2 官方文档
-      logo: pm2.png
-      url: https://pm2.keymetrics.io/docs/usage/quick-start/
-      description: PM2 守护进程管理器官方文档。
-    - title: MDN Web API
-      logo: mozilla.png
-      url: https://developer.mozilla.org/docs/Web/API
-      description: Web API 接口参考。
-    - title: Android API
-      logo: android.png
-      url: https://developer.android.com/reference
-      description: Android API 参考。
-    - title: NodeJS 官方文档
-      logo: nodejs.png
-      url: https://nodejs.org/api/
-      description: NodeJS 官方文档。
-    - title: Frida 官方文档
-      logo: frida.png
-      url: https://frida.re/docs/
-      description: Frida 官方文档。
-    - title: ADB Shell
-      logo: adbshell.png
-      url: https://adbshell.com/
-      description: Android ADB 命令手册。
-    - title: Linux Cool
-      logo: linuxcool.png
-      url: https://www.linuxcool.com/
-      description: Linux 命令手册。
-    - title: Babel 官方文档
-      logo: babel.png
-      url: https://babel.dev/docs/
-      description: Babel 官方文档。
-    - title: Easing functions
-      logo: easings.png
-      url: https://easings.net/
-      description: 缓动函数表，可基于此类函数生成滑动轨迹。
-    - title: Pandas 官方文档
-      logo: pandas.png
-      url: https://pandas.pydata.org/docs/
-      description: Pandas 官方文档。
-    - title: NumPy 官方文档
-      logo: numpy.png
-      url: https://numpy.org/
-      description: NumPy 官方文档。
-    - title: Matplotlib 官方文档
-      logo: matplotlib.png
-      url: https://matplotlib.org/
-      description: Matplotlib 官方文档。
-    - title: QuickRef
-      logo: quickref.png
-      url: https://quickref.me/
-      description: QuickRef，快速查阅各种编程语言、工具、数据库、键盘快捷键等基础用法。
-    - title: Prometheus 官方文档
-      logo: prometheus.png
-      url: https://prometheus.io/docs/
-      description: Prometheus 开源监控系统官方文档。
-    - title: Docker 官方文档
-      logo: docker.png
-      url: https://docs.docker.com/
-      description: Docker 官方文档。
-    - title: PyCharm 中文指南
-      logo: iswbm.jpg
-      url: https://pycharm.iswbm.com/
-      description: PyCharm 中文指南。
-    - title: common-regex
-      logo: commonregex.png
-      url: https://github.com/cdoco/common-regex
-      description: 常用正则表达式。
 
 - taxonomy: 常用工具
   icon: fas fa-tools
@@ -118,10 +11,6 @@
           logo: spidertools.png
           url: https://spidertools.cn/
           description: feapder 作者出品的爬虫工具库。
-#        - title: 爬虫工具库
-#          logo: kuaidaili.png
-#          url: https://www.kgtools.cn/
-#          description: K 哥爬虫工具库。
         - title: 猿人学爬虫工具库
           logo: yuanrenxue.jpg
           url: https://tool.yuanrenxue.cn/
@@ -166,6 +55,11 @@
           logo: imgcoord.png
           url: https://uutool.cn/img-coord/
           description: 在线图片坐标拾取工具，可以快速拾取图片中指定点的坐标，在验证码逆向中比较有用。
+        - title: cdsn网页下载
+          logo: csdn.png
+          url: https://fmy1024.cn/?cdk=3148ZZoiOAPLnZFx
+          description: 可以下载一些csdn付费文章
+
 
     - term: 抓包工具
       links:
@@ -311,6 +205,98 @@
           logo: saveaspdf.png
           url: https://pdfcrowd.com/save-as-pdf-addon/
           description: 网页转 PDF，把你喜欢的博主的文章保存一份吧。
+
+- taxonomy: 文档资料
+  icon: fas fa-book
+  links:
+    - title: Python 官方文档
+      logo: python.png
+      url: https://docs.python.org/
+      description: Python 官方文档
+    - title: Golang 官方文档
+      logo: go.png
+      url: https://go.dev/doc/
+      description: Golang 官方文档。
+    - title: Java 官方文档
+      logo: java.png
+      url: https://docs.oracle.com/en/java/
+      description: Java 官方文档。
+    - title: Python 黑魔法手册
+      logo: iswbm.jpg
+      url: https://magic.iswbm.com/
+      description: Python 黑魔法手册。
+    - title: FastApi 官方文档
+      logo: fastapi.png
+      url: https://fastapi.tiangolo.com/
+      description: FastApi 官方文档。
+    - title: PM2 官方文档
+      logo: pm2.png
+      url: https://pm2.keymetrics.io/docs/usage/quick-start/
+      description: PM2 守护进程管理器官方文档。
+    - title: MDN Web API
+      logo: mozilla.png
+      url: https://developer.mozilla.org/docs/Web/API
+      description: Web API 接口参考。
+    - title: Android API
+      logo: android.png
+      url: https://developer.android.com/reference
+      description: Android API 参考。
+    - title: NodeJS 官方文档
+      logo: nodejs.png
+      url: https://nodejs.org/api/
+      description: NodeJS 官方文档。
+    - title: Frida 官方文档
+      logo: frida.png
+      url: https://frida.re/docs/
+      description: Frida 官方文档。
+    - title: ADB Shell
+      logo: adbshell.png
+      url: https://adbshell.com/
+      description: Android ADB 命令手册。
+    - title: Linux Cool
+      logo: linuxcool.png
+      url: https://www.linuxcool.com/
+      description: Linux 命令手册。
+    - title: Babel 官方文档
+      logo: babel.png
+      url: https://babel.dev/docs/
+      description: Babel 官方文档。
+    - title: Easing functions
+      logo: easings.png
+      url: https://easings.net/
+      description: 缓动函数表，可基于此类函数生成滑动轨迹。
+    - title: Pandas 官方文档
+      logo: pandas.png
+      url: https://pandas.pydata.org/docs/
+      description: Pandas 官方文档。
+    - title: NumPy 官方文档
+      logo: numpy.png
+      url: https://numpy.org/
+      description: NumPy 官方文档。
+    - title: Matplotlib 官方文档
+      logo: matplotlib.png
+      url: https://matplotlib.org/
+      description: Matplotlib 官方文档。
+    - title: QuickRef
+      logo: quickref.png
+      url: https://quickref.me/
+      description: QuickRef，快速查阅各种编程语言、工具、数据库、键盘快捷键等基础用法。
+    - title: Prometheus 官方文档
+      logo: prometheus.png
+      url: https://prometheus.io/docs/
+      description: Prometheus 开源监控系统官方文档。
+    - title: Docker 官方文档
+      logo: docker.png
+      url: https://docs.docker.com/
+      description: Docker 官方文档。
+    - title: PyCharm 中文指南
+      logo: iswbm.jpg
+      url: https://pycharm.iswbm.com/
+      description: PyCharm 中文指南。
+    - title: common-regex
+      logo: commonregex.png
+      url: https://github.com/cdoco/common-regex
+      description: 常用正则表达式。
 
 - taxonomy: WEB 相关
   icon: fab fa-js
@@ -1289,6 +1275,11 @@
           logo: gh_b056d127ad86.jpg
           qrcode: images/qrcode/gh_b056d127ad86.jpg
           description: 公众号：国家安全部
+        - title: 十一姐知识星球
+          logo: weixin_43411585.jpg
+          qrcode: images/qrcode/shiyi_zsxq.jpg
+          url: https://t.zsxq.com/14tPsY8si
+          description: 各种JS逆向/验证码逆向识别训练
         - title: 公安部网安局
           logo: gh_e406f4bcdf34.jpg
           qrcode: images/qrcode/gh_e406f4bcdf34.jpg
@@ -1583,4 +1574,4 @@
           logo: writingo.png
           description: 火山写作是由字节跳动推出的，集成创作、润色、纠错、改写、翻译等能力的中英文 AI 写作助手。
 
-# https://open.weixin.qq.com/qr/code?username=ruanlyi
+
